@@ -1,6 +1,5 @@
 # Temporal Clinical Reasoning for Medical Coding  
-CSCI 5541 – Natural Language Processing  
-University of Minnesota | Spring 2026  
+CSCI 5541 – Natural Language Processing (Team Project)
 
 ---
 
