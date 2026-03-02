@@ -4,7 +4,7 @@ University of Minnesota | Spring 2026
 
 ---
 
-## 👥 Team Members
+## Team Members
 - Woochang Shin  
 - Jisun Kim  
 - Steven Hu  
@@ -12,7 +12,7 @@ University of Minnesota | Spring 2026
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project develops a temporal clinical reasoning framework for automated ICD and CPT medical coding. 
 
@@ -20,7 +20,7 @@ Unlike traditional NLP-based coding systems that treat each clinical note indepe
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 We use **MIMIC-IV**, a large de-identified electronic health record (EHR) dataset that includes:
 
@@ -31,7 +31,7 @@ We use **MIMIC-IV**, a large de-identified electronic health record (EHR) datase
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To build a time-aware and context-aware auto-coding system that:
 
@@ -41,6 +41,6 @@ To build a time-aware and context-aware auto-coding system that:
 
 ---
 
-## 🌐 Project Webpage
+## Project Webpage
 
 The project webpage is hosted via GitHub Pages in this repository.
