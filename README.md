@@ -19,12 +19,15 @@ Unlike traditional NLP-based coding systems that treat each clinical note indepe
 
 ---
 
-## Dataset
+## Data Access
 
-We use **MIMIC-IV**, a large de-identified electronic health record (EHR) dataset that includes:
+Access to **MIMIC-IV** requires completion of the official data use training and credentialing process.
+
+For this project, dataset access was obtained through Steven Hu, who has completed the required training and certification to access MIMIC-IV.
 
 - Clinical notes  
-- ICD codes  
+- ICD diagnosis codes  
+- CPT procedure codes  
 - Laboratory results  
 - Medication records  
 
@@ -38,8 +41,3 @@ To build a time-aware and context-aware auto-coding system that:
 - Detects documentation inconsistencies  
 - Produces interpretable, evidence-based outputs  
 
----
-
-## Project Webpage
-
-The project webpage is hosted via GitHub Pages in this repository.
